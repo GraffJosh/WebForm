@@ -8,7 +8,7 @@ using System.IO;
 
 namespace WebHandler3
 {
-    public partial class Program : System.Web.UI.Page
+    public partial class WebServer : System.Web.UI.Page
     {
         static void Main(string[] args)
         {

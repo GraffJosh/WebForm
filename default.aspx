@@ -1,4 +1,4 @@
-<%@ Page Language="C#" AutoEventWireup="True" src="Program.cs" inherits="WebHandler3.Program"%>
+<%@ Page Language="C#" AutoEventWireup="True" src="WebServer.cs" inherits="WebHandler3.WebServer"%>
 <!DOCTYPE html>
 <html>
 
